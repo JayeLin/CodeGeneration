@@ -1,7 +1,7 @@
 # code-generation
 
 > Automatic code generation tool
-
+> electron + vue
 ## Build Setup
 
 ``` bash
